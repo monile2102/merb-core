@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Faster batch same_shapes (#8851)
