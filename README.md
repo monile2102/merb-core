@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update neural-magic.md (#7347)
