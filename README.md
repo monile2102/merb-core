@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Updating a typo on paddlepaddle.md (#9108)
