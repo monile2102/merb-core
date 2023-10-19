@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
