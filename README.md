@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
