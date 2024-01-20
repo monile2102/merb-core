@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
