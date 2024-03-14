@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
