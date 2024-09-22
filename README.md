@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Fix ONNX GPU inference bug (#6840)
